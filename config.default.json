@@ -15,7 +15,7 @@
     }, {
         "uri": "plugin://aleth.io/eth-lite?v=4.2.0",
         "config": {
-            "nodeUrl": "https://mainnet.infura.io/"
+            "nodeUrl": "https://rpc.testnet.moonbeam.network"
         }
     }],
 
